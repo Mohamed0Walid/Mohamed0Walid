@@ -5,7 +5,6 @@
 ### Software Developer · AI Background · Full-Stack in Progress 🚀
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.walid.0801@gmail.com)
-[![Location](https://img.shields.io/badge/Giza%2C_Egypt-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
 </div>
 
@@ -45,14 +44,16 @@ The goal? Ship software that's smart where it needs to be, and solid everywhere 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Backend & Databases
+### 🗄️ Databases & Networking
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
 
-### ⚙️ Engineering & Problem Solving
+### ⚙️ CS & Engineering Fundamentals
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-6C3483?style=for-the-badge&logo=diagrams.net&logoColor=white)
 ![SDLC](https://img.shields.io/badge/SDLC-2ECC71?style=for-the-badge&logo=git&logoColor=white)
+![System Analysis](https://img.shields.io/badge/System_Analysis-6C3483?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FF6B35?style=for-the-badge&logo=abstract&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-E74C3C?style=for-the-badge&logo=thealgorithms&logoColor=white)
 
 ---
 
@@ -102,13 +103,6 @@ The goal? Ship software that's smart where it needs to be, and solid everywhere 
 
 - 🥇 **ICPC** — International Collegiate Programming Contest participant, solving algorithmic problems in C++ under pressure as part of a team
 - 📚 **160-hour AI Diploma** — Intensive training in ML, Deep Learning, Data Analysis & Manipulation
-
----
-
-## 🌍 Languages
-
-- 🇦🇪 Arabic — Native
-- 🇬🇧 English — Intermediate
 
 ---
 
