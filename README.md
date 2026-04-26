@@ -12,7 +12,7 @@
 
 ## 🧬 Who Am I?
 
-I'm a **Computer Science graduate** who spent years deep in AI & Machine Learning — training CNN models, building datasets, and shipping Flask APIs. Now I'm channeling all that foundation into **Full-Stack Development**, connecting the heavy computer science I studied with real-world software products.
+I'm a **Computer Science graduate** who dived deep into AI & Machine Learning during my studies — training CNN models, building datasets, and shipping Flask APIs. Now I'm channeling all that foundation into **Full-Stack Development**, connecting the heavy computer science I studied with real-world software products.
 
 > *"I came from the deep end of AI. Now I'm building the full picture."*
 
